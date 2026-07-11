@@ -249,18 +249,9 @@ Goal:
 </div>
 
 ---
-
-# 📊 Weekly Development Breakdown
-
-```text
-JavaScript      ████████████████████   62%
-Node.js         █████████████████      20%
-HTML/CSS        ██████                 08%
-MongoDB         ████                   05%
-Linux           ███                    03%
-Other           ██                     02%
-```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ficxkoofficial/ficxkoofficial/main/developer-stats.svg" width="100%">
+</p>
 ---
 
 # ⚡ Coding Status
