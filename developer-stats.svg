@@ -1,0 +1,58 @@
+<svg width="850" height="260" viewBox="0 0 850 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="260" rx="18" fill="url(#bg)"/>
+
+  <text x="35" y="40"
+        fill="#58a6ff"
+        font-size="24"
+        font-family="Segoe UI"
+        font-weight="700">
+⚡ Developer Breakdown
+  </text>
+
+  <text x="35" y="80" fill="#c9d1d9" font-size="18" font-family="Consolas">
+JavaScript
+  </text>
+  <rect x="190" y="64" width="500" height="16" rx="8" fill="#30363d"/>
+  <rect x="190" y="64" width="465" height="16" rx="8" fill="url(#bar)"/>
+  <text x="710" y="79" fill="#8b949e" font-size="16">93%</text>
+
+  <text x="35" y="120" fill="#c9d1d9" font-size="18" font-family="Consolas">
+Node.js
+  </text>
+  <rect x="190" y="104" width="500" height="16" rx="8" fill="#30363d"/>
+  <rect x="190" y="104" width="440" height="16" rx="8" fill="url(#bar)"/>
+  <text x="710" y="119" fill="#8b949e" font-size="16">88%</text>
+
+  <text x="35" y="160" fill="#c9d1d9" font-size="18" font-family="Consolas">
+REST API
+  </text>
+  <rect x="190" y="144" width="500" height="16" rx="8" fill="#30363d"/>
+  <rect x="190" y="144" width="480" height="16" rx="8" fill="url(#bar)"/>
+  <text x="710" y="159" fill="#8b949e" font-size="16">96%</text>
+
+  <text x="35" y="200" fill="#c9d1d9" font-size="18" font-family="Consolas">
+Automation
+  </text>
+  <rect x="190" y="184" width="500" height="16" rx="8" fill="#30363d"/>
+  <rect x="190" y="184" width="430" height="16" rx="8" fill="url(#bar)"/>
+  <text x="710" y="199" fill="#8b949e" font-size="16">86%</text>
+
+  <text x="35" y="240"
+        fill="#8b949e"
+        font-size="15"
+        font-family="Consolas">
+Powered by DREADNOUGHT • GitHub Profile
+  </text>
+</svg>
