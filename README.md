@@ -127,29 +127,10 @@ Status      : Building Awesome Projects 🚀
 
 ---
 
-# 📈 Development Skills
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ficxkoofficial/ficxkoofficial/main/developerskills-stats.svg" width="100%">
+</p>
 
-```text
-JavaScript      ████████████████████  100%
-
-Node.js         ███████████████████   98%
-
-WhatsApp Bot    ████████████████████  100%
-
-HTML            ██████████████████    95%
-
-CSS             ███████████████       85%
-
-MongoDB         ████████████████      90%
-
-Linux           ██████████████        82%
-
-Git             █████████████████     92%
-
-REST API        ███████████████████   98%
-
-Automation      ████████████████████  100%
-```
 
 ---
 
