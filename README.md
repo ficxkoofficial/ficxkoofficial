@@ -189,7 +189,15 @@ Automation      ████████████████████  10
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ficxkoofficial&theme=algolia&row=2&column=4&no-frame=true"/>
+![VibesCode](https://img.shields.io/badge/🥇-VibesCode%202025%20Champion-FFD700?style=for-the-badge)
+
+![REST API](https://img.shields.io/badge/🚀-Best%20REST%20API-00C853?style=for-the-badge)
+
+![WhatsApp Bot](https://img.shields.io/badge/🤖-WhatsApp%20Bot%20Developer-25D366?style=for-the-badge)
+
+![Automation](https://img.shields.io/badge/⚙️-Automation%20Engineer-1E88E5?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/⭐-Open%20Source%20Creator-9C27B0?style=for-the-badge)
 
 </div>
 
@@ -201,7 +209,7 @@ Automation      ████████████████████  10
 |---------|-------------|--------|
 | 🤖 **DREADNOUGHT** | Advanced WhatsApp Bot | 🟢 Active |
 | ⚡ **VENTURAX API** | REST API Service | 🟢 Active |
-| 💻 **Automation Tools** | Node.js Automation | 🚧 Development |
+| 💻 **Automation Tools** | Node.js Automation | 🚧 Develo
 | 🌐 **Website Portfolio** | Personal Portfolio | ✅ Online |
 
 ---
