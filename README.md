@@ -74,20 +74,20 @@ Status      : Building Awesome Projects 🚀
 
 &nbsp;
 
-<a href="#">
+<a href="https://discord.com/users/1341428246104903711">
 <img src="https://skillicons.dev/icons?i=discord" height="55"/>
 </a>
 
 &nbsp;
 
-<a href="#">
+<a href="https://www.instagram.com/ficxkofficial?igsh=ejFnMWs3MDh2OW44">
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
 &nbsp;
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
+<a href="https://t.me/FicxkonyaTidur">
+<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
 </a>
 
 </p>
@@ -269,15 +269,15 @@ Productivity    : ██████████ 100%
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/ficxkofficial?igsh=ejFnMWs3MDh2OW44">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://discord.com/users/1341428246104903711">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://t.me/FicxkonyaTidur">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
